@@ -1,0 +1,771 @@
+.
+
+
+
+
+      STATISTICAL REPORT
+                  ON
+    GENERAL ELECTIONS, 1992
+                  TO
+     THE TENTH LOK SABHA
+
+
+               VOLUME I
+
+     (NATIONAL AND STATE ABSTRACTS
+           & DETAILED RESULTS)
+
+
+
+
+     ELECTION COMMISSION OF INDIA
+              NEW DELHI
+ECI-GE92-LS (VOL. I)
+
+© Election Commision of India, 1992
+
+All rights reserved. No part of this book may be reproduced in any form, by mimeograph or any
+other means, without prior and express permission in writing from Election Commision of India.
+
+First published 1992
+
+Published by Election Commision of India, Nirvachan Sadan, Ashoka Road, New Delhi - 110 001.
+
+Computer Data Processing and Laser Printing of Reports by Statistics and Information System
+Division, Election Commision of India.
+     Election Commission of India - General Elections, 1992 ( 10th LOK SABHA )
+
+                    STATISTICAL REPORT - Volume I
+                     (National and State Abstracts & Detailed Results)
+
+                                     CONTENTS
+
+         SUBJECT                                                         Page No.
+         Part - I
+1.       List of Participating Political Parties                            1
+2.       Number and Types of Constituencies                                 2
+3.       Size of Electorate                                                 3
+4.       Voter Turnout and Polling Stations                                 4
+5.       Number of Candidates per Constituency                              5
+6.       Number of Candidates and Forfeiture of Deposits                    6
+7.        Candidate Data Summary                                            7
+8.       Elector Data Summary                                               8
+9.       List of Successful Candidates                                      9
+10.      Performance of National Parties vis-à-vis Others                  10
+11.      Seats won by Parties in States / U.T.s                            11
+12.      Seats won in States / U.T.s by Parties                            12
+13.      Votes Polled by Parties - National Summary                        13
+14.      Votes Polled by Parties in States / U.T.s                         14
+15.      Votes Polled in States / U.T.s by Parties                         15
+16.      Women's Participation in Polls                                    16
+17.      Performance of Women Candidates                                   17
+18.      Performance of Women in National Parties vis-à-vis Others         18
+19.      Women Candidates                                                  19
+         Part - II
+20       Detailed Results                                                  20   -   22
+                       Election Commission of India-General Elections,1992 (10th LOK SABHA)
+
+          LIST OF PARTICIPATING POLITICAL PARTIES
+PARTYTYPE ABBREVIATION                       PARTY
+
+
+ NATIONAL PARTIES
+                 1.    BJP                  Bharatiya Janata Party
+                 2.    CPI                  Communist Party of India
+                 3.    CPM                  Communist Party of India (Marxist)
+                 4.    INC                  Indian National Congress
+                 5.    JD                   Janata Dal
+                 6.    JP                   Janata Party
+                 7.    LKD                  Lok Dal
+
+ STATE PARTIES
+                 8.    BSP                  Bahujan Samaj Party
+                 9.    SAD(M)               Shiromani Akali Dal (Simaranjit Singh Mann)
+
+ REGISTERED(Unrecognised ) PARTIES
+               10 .    BKUS                 Bharatiya Krishi Udyog Sangh
+
+ INDEPENDENTS
+               11 .    IND                  Independent
+
+
+
+
+(rptListPoliticalParties - Page 1 of 1)                                                       1
+                              Election Commission of India - General Elections, 1992 (10th LOK SABHA)
+
+
+               NUMBER AND TYPES OF CONSTITUENCIES
+      STATE/UT                                                       Type of Constituencies                    Election
+                                                                                                             Completed
+                                                                  GEN         SC         ST     TOTAL
+    1.    PUNJAB                                                     10          3         0            13        13
+
+          TOTAL                                                      10          3         0                      13
+
+
+
+
+(rptNoTypeofConst - 1 of 1)                                                                                  2
+                      Election Commission of India - General Elections, 1992 (10th LOK SABHA)
+
+
+                                  SIZE OF ELECTORATE
+       STATE/UT                                                           NO OF ELECTORS
+                                                                      MEN          WOMEN              TOTAL
+
+    1 . PUNJAB                                                   7130111           6039686          13169797
+           TOTAL                                                 7130111           6039686          13169797
+
+
+
+
+(rptSizeElectorate - 1 of 1)                                                                    3
+                         Election Commission of India - General Elections, 1992(10th LOK SABHA)
+
+
+                                          VOTER TURNOUT
+       STATE/UT                                         ELECTORS         VOTERS          POLL     REJECTED  NO. OF
+                                                                                            %            % POLLING
+                                                                                                           STATION
+
+   1 . PUNJAB                                            13169797       3155523        23.96%       4.41%       14667
+            TOTAL                                        13169797        3155523       23.96%       4.41%       14667
+
+
+
+
+(rptVoterTurnout - 1 of 1)                                                                                  4
+                                                         Election Commission of India - General Elections, 1992 (10th LOK SABHA)
+
+                                            NUMBER OF CANDIDATES PER CONSTITUENCY
+                                                          CONSTITUENCIES WITH CANDIDATES NUMBERING                                TOTAL      CANDIDATES IN A
+                                                                                                                                  CANDI-      CONSTITUENCY
+       STATE/UT                             SEATS    1    2       3          4          5       6-8        9 -10       >10        DATES    AVG     MIN    MAX
+
+
+
+  1 . PUNJAB                                   13    0     0       1         4          2          2           4          0           81     6        3   10
+
+Grand Total                                     13   0     0       1         4          2          2           4              0       81   6.23       3   10
+
+
+
+
+(rptNoCandidatesPerConstituency - 1 of 1)
+                                                                                                                                                  5
+                                 Election Commission of India - General Elections, 1992 (10th LOK SABHA)
+
+
+  NUMBER OF CANDIDATES FORFEITURE OF DEPOSITS
+         STATE/UT                                        No. of         No. of Candidates                        No of FDs *
+                                                         Seats     N      S     U       Z        TOT    N         S       U        Z TOT
+
+    1.    PUNJAB                                            13     33      15       1   32        81    12        8       1        32 53
+
+           TOTAL                                           13      33     15        1       32     81       12        8        1    32 53
+
+NB : N - National Parties, S - State Parties, U - Registered (Unrecognised) Parties, Z - Independents
+
+
+
+
+(rptNoofCandidatesandFDs - 1 of 1)                                                                                             6
+                Election Commission of India, General Elections, 1992 (10th LOK SABHA)
+
+
+                             CANDIDATES DATA SUMMARY
+                                                          TYPE OF CONSTITUENCY
+
+                                                  GEN                  SC                ST   TOTAL
+
+PUNJAB
+1.    NO. OF CONSTITUENCIES                          10                 3                 0     13
+
+
+2.    NOMINATIONS FILED
+
+            a. Men                                   99                25                 0    124
+            b. Women                                  4                 0                 2      6
+            c. Total                                103                25                 2    130
+
+3.    NOMINATIONS REJECTED
+
+            a. Men                                    2                 0                 0      2
+            b. Women                                  2                 0                 0      2
+            c. Total                                  4                 0                 0      4
+
+4.    NOMINATIONS WITHDRAWN
+
+            a. Men                                   32                13                 0     45
+            b. Women                                  0                 0                 0      0
+            c. Total                                 32                13                 0     45
+
+5.    CONTESTING CANDIDATES
+
+            a. Men                                   65                12                 0     77
+            b. Women                                  2                 0                 2      4
+            c. Total                                 67                12                 2     81
+
+6.    FORFEITED DEPOSITS
+
+            a. Men                                   47                 5                 0     52
+            b. Women                                  0                 1                 0      1
+            c. Total                                 47                 6                 0     53
+
+
+
+
+(rptCandidateDataSummary - Page 1 of 1)
+
+                                                          7
+                               Election Commission of India - General Elections, 1992 (10th LOK SABHA)
+
+                                  ELECTORS DATA - SUMMARY
+ STATE/UT            PUNJAB
+
+                                                            TYPE OF CONSTITUENCY
+
+                                                    GEN                  SC                  ST              TOTAL
+
+1.       NO. OF CONSTITUENCIES                         10                  3                   0                  13
+
+
+2.       ELECTORS
+
+               a. Men                            5474620            1655491                    0             7130111
+               b. Women                          4617301            1422385                    0             6039686
+               c. Total                         10091921            3077876                    0         13169797
+
+3.       ELECTORS WHO VOTED
+
+               a. Men                            1552686             333306                    0             1885992
+               b. Women                          1054328             215203                    0             1269531
+               c. Total                          2607014             548509                    0             3155523
+
+4.       POLL PERCENTAGE                            25.83              17.82                0.00               23.96
+
+
+5.       VALID VOTES                             2494646             521751                    0             3016397
+
+
+6.       REJECTED VOTES
+
+               a. Votes                           112368              26758                    0              139126
+               b. Percentage                         4.31               4.88                0.00                4.41
+
+7.       MISSING VOTES                                  0                  0                   0                   0
+
+
+8.       NO. OF POLLING STATIONS                    11198              3469                    0               14667
+
+
+9.       AVERAGE NO. OF                              901                887                   0                 898
+         ELECTORS PER POLLING
+         STATION
+
+
+
+
+(rptElectorsDataSummary - Page 1 of 1)                                                                   8
+                     Election Commission Of India - General Elections,1992 (10th LOK SABHA)
+
+                    LIST OF SUCCESSFUL CANDIDATES
+            CONSTITUENCY                       WINNER                                         PARTY
+
+
+PUNJAB
+         1. GURDASPUR                          SUKHBUNS KAUR (W)                              INC
+         2. AMRITSAR                           RAGHUNANDAN LAL BHATIA                         INC
+         3. TARN TARAN                         SURINDER SINGH KAIRON                          INC
+         4. JULLUNDUR                          YASH                                           INC
+         5. PHILLAUR (SC)                      SANTOSH CHAUDHARY (W)                          INC
+         6. HOSHIARPUR                         KAMAL CHAUDHARY                                INC
+         7. ROPAR (SC)                         HARCHAND SINGH                                 INC
+         8. PATIALA                            SANT RAM SINGLA                                INC
+         9. LUDHIANA                           GURCHARAN SINGH GALIB                          INC
+        10. SANGRUR                            GURCHARAN SINGH DADAHOOR                       INC
+        11. BHATINDA (SC)                      KEWAL SINGH                                    INC
+        12. FARIDKOT                           JAGMEET SINGH                                  INC
+        13. FEROZEPUR                          MOHAN SINGH S/O KANSHA SINGH                   BSP
+
+
+
+
+(rptListSuccessfulCandidates - 1 of 1)                                                          9
+                                      Election Commission of India - General Elections, 1992 (10th LOK SABHA)
+
+
+PERFORMANCE OF NATIONAL PARTIES VIA-A-VIS OTHERS
+
+
+       PARTY                                        CANDIDATES                                 %                     VALID
+                                      CONTESTED                WON        FD          WON              FD        VOTES      VOTES %
+
+
+
+  1    BJP                                          9            0           4         0.00%       44.44%          497999    16.51%
+  2    CPI                                          1            0           0         0.00%        0.00%           47226     1.57%
+  3    CPM                                          3            0           1         0.00%       33.33%          119902     3.98%
+  4    INC                                        13            12           0        92.31%        0.00%         1486289    49.27%
+  5    JD                                           4            0           4         0.00% 100.00%                39220     1.30%
+  6    JP                                           1            0           1         0.00% 100.00%                27966     0.93%
+  7    LKD                                          2            0           2         0.00% 100.00%                 2839     0.09%
+
+NATIONAL PARTIES :                                33            12          12        36.36%       36.36%         2221441    73.65%
+
+STATE PARTIES :                                   15             1           8         6.67%       53.33%          672598    22.30%
+
+REGISTERED                                          1            0           1         0.00% 100.00%                 1349     0.04%
+(Unrecognised) PARTIES :
+
+INDEPENDENTS :                                    32             0          32         0.00% 100.00%               121009     4.01%
+
+
+TOTAL :                                           81            13          53       16.05%        65.43%         3016397
+
+
+
+
+(rptPerformanceofNationalPartiesVisaVisOthers - Page 1 of 1)                                                10
+                      Election Commission of India-General Elections, 1992 (10th LOK SABHA)
+
+           SEATS WON BY PARTIES IN STATES /UTs
+PARTY             STATE                                   GEN           SC           ST       TOTAL
+
+
+BSP
+                  PUNJAB                                      1                        0           1
+
+                 TOTAL SEATS FOR THE PARTY:                   1                        0           1
+
+INC
+                  PUNJAB                                      9           3            0           12
+
+                 TOTAL SEATS FOR THE PARTY:                   9           3            0           12
+
+                    TOTAL SEAST FOR ALL PARTIES:             10           3            0           13
+
+
+
+
+(rptSeatsWonByPartiesinStates/UTs - 1 of 1)                                                   11
+                      Election Commission of India-General Elections, 1992 (10th LOK SABHA)
+
+            SEATS WON IN STATES /UTs BY PARTIES
+ STATE/UT                                    PARTY           GEN          SC           ST     TOTAL
+
+
+PUNJAB
+                                             INC                9           3            0         12
+                                             BSP                1                        0         1
+
+                  TOTAL SEATS IN THE STATE/UT:                 10           3            0         13
+                                       ALL INDIA TOTAL:        10           3            0         13
+
+
+
+
+(rptSeatsWoninStatesUTsbyParties - 1 of 1)                                                    12
+                                 Election Commission of India - General Elections, 1992 (10th LOK SABHA)
+
+
+          VOTES POLLED BY PARTIES - NATIONAL SUMMARY
+
+                                                                                                      PERCENTAGE       % IN
+                 PARTY                    SEATS CONT-               SEATS      FD IN        VOTES        OF VOTES    SEATS
+           ABBREVIATION                         ESTED                WON       SEATS       POLLED
+                                                                                                          POLLED CONTESTED
+      1                                                    2           3           4            5                 6          7
+
+
+
+NATIONAL PARTIES
+   BJP
+   (Contested in 1 State/UT)                                    9          0           4     497999             16.51%   20.39%
+
+   CPI
+   (Contested in 1 State/UT)                                    1          0           0      47226             1.57%    35.90%
+
+   CPM
+   (Contested in 1 State/UT)                                    3          0           1     119902             3.98%    17.45%
+
+   INC
+   (Contested in 1 State/UT)                                   13      12              0    1486289             49.27%   49.27%
+
+   JD
+   (Contested in 1 State/UT)                                    4          0           4      39220             1.30%    3.22%
+
+   JP
+   (Contested in 1 State/UT)                                    1          0           1      27966             0.93%    8.28%
+
+   LKD
+   (Contested in 1 State/UT)                                    2          0           2       2839             0.09%    0.45%
+
+STATE PARTIES
+   BSP
+   (Contested in 1 State/UT)                                   12          1           6     594628             19.71%   21.39%
+
+   SAD(M)
+   (Contested in 1 State/UT)                                    3          0           2      77970             2.58%    9.64%
+
+REGISTERED (Unrecognised) PARTIES
+   BKUS
+   (Contested in 1 State/UT)                                    1          0           1       1349             0.04%    0.58%
+
+INDEPENDENTS
+   IND
+   (Contested in 1 State/UT)                                   32          0        32       121009             4.01%    5.29%
+
+                      Grand Total :                            81      13           53      3016397
+
+
+
+
+(rptVotesPolledByParties-National Summary - Page 1 of 1)                                                   13
+                                      Election Commission of India - General Elections, 1992 (10th LOK SABHA)
+
+
+                   VOTES POLLED BY PARTIES IN STATES/UTs
+
+                                                                                  SEATS                                VOTES   % OF
+    PARTY           STATE STATE                                                   CONT-           SEATS      FD IN    POLLED VOTES
+TYPE   ABBREVIATION CODE NAME                                                     ESTED            WON       SEATS   BY PARTY POLLED
+
+      1            2                        3          4                                 5          6           7          8         9
+
+
+
+     N        BJP
+                                      S19        PUNJAB                                      9           0       4      497999     16.51
+                                            Total (All India) :                              9           0       4      497999   16.51%
+
+     N        CPI
+                                      S19        PUNJAB                                      1           0       0       47226      1.57
+                                            Total (All India) :                              1           0       0       47226   1.57%
+
+     N        CPM
+                                      S19        PUNJAB                                      3           0       1      119902      3.98
+                                            Total (All India) :                              3           0       1      119902   3.98%
+
+     N        INC
+                                      S19        PUNJAB                                      13         12       0     1486289     49.27
+                                            Total (All India) :                              13         12       0     1486289   49.27%
+
+     N        JD
+                                      S19        PUNJAB                                      4           0       4       39220       1.3
+                                            Total (All India) :                              4           0       4       39220   1.30%
+
+     N        JP
+                                      S19        PUNJAB                                      1           0       1       27966      0.93
+                                            Total (All India) :                              1           0       1       27966   0.93%
+
+     N        LKD
+                                      S19        PUNJAB                                      2           0       2       2839       0.09
+                                            Total (All India) :                              2           0       2       2839    0.09%
+
+     S        BSP
+                                      S19        PUNJAB                                      12          1       6      594628     19.71
+                                            Total (All India) :                              12          1       6      594628   19.71%
+
+     S        SAD(M)
+                                      S19        PUNJAB                                      3           0       2       77970      2.58
+                                            Total (All India) :                              3           0       2       77970   2.58%
+
+     U        BKUS
+                                      S19        PUNJAB                                      1           0       1       1349       0.04
+                                            Total (All India) :                              1           0       1       1349    0.04%
+
+     Z        IND
+                                      S19        PUNJAB                                      32          0      32      121009      4.01
+                                            Total (All India) :                              32          0      32      121009   4.01%
+
+                                            Grand Total :                                    81         13      53     3016397
+
+N = National Party, S = State Party, U = Registered (Unrecognised) Party, Z = Independent
+
+
+
+
+ (rptVotesPolledByPartiesinStates/Uts - Page 1 of 1)                                                            14
+                                     Election Commission of India - General Elections, 1992 (10th LOK SABHA)
+
+
+                        VOTES POLLED IN STATES BY PARTIES
+
+                   STATE/UT,                                                        SEATS                                 VOTES   % OF
+                  NUMBER OF                 PARTY PARTY                             CONT-      SEATS     FD IN           POLLED VOTES
+              CONSTITUENCIES                 TYPE                                   ESTED       WON      SEATS          BY PARTY POLLED
+
+                             1                        2          3                       4        5            6                  7        8
+
+
+                             PUNJAB              13
+                                                      N   BJP                             9        0               4           497999   16.51%
+                                                      N   CPI                             1        0               0            47226   1.57%
+                                                      N   CPM                             3        0               1           119902   3.98%
+                                                      N   INC                            13       12               0          1486289   49.27%
+                                                      N   JD                              4        0               4            39220   1.30%
+                                                      N   JP                              1        0               1            27966   0.93%
+                                                      N   LKD                             2        0               2            2839    0.09%
+                                                      S   BSP                            12        1               6           594628   19.71%
+                                                      S   SAD(M)                          3        0               2            77970   2.58%
+                                                      U   BKUS                            1        0               1            1349    0.04%
+                                                      Z   IND                            32        0           32              121009   4.01%
+
+              State/UT total (Contestants, Seats Won, FD in Seats, Valid Votes) :        81       13               53         3016397
+                                           Grand Total :                                 81       13               53         3016397
+
+N - National Party, S - State Party, U - Registered (Unrecognised) Party, Z - Independent
+
+
+
+
+(rptVotesPolledinStates/UTsbyParties - Page 1 of 1)                                                                      15
+                               Election Commission of India - General Elections, 1992 (10th LOK SABHA)
+
+
+                       WOMEN'S PARTICIPATION IN POLLS
+         STATE/UT                                          WOMEN             WOMEN                POLL %
+                                                         ELECTORS            VOTERS
+                                                                                            WOMEN             TOTAL
+    1.    PUNJAB                                              6039686         1269531         21.02%          23.96%
+
+           TOTAL                                             6039686         1269531         21.02%           23.96%
+
+
+
+
+(rptWomenParticipation - 1 of 1)                                                                         16
+                          Election Commission of India - General Elections, 1992 (10th LOK SABHA)
+
+
+            PERFORMANCE OF WOMEN CANDIDATES
+      STATE/UT                                            NO.OF               NO. OF WOMEN
+                                                          SEATS       CONTESTANTS    ELECTED                 FDs
+  1 . PUNJAB                                                   13                4                  2          1
+
+                                                                13               4                  2         1
+
+
+
+
+(rptPerformanceWomenCandidates - Page 1 of 1)                                                           17
+                               Election Commission of India - General Elections, 1992 (10th LOK SABHA)
+
+
+           PERFORMANCE OF WOMEN IN NATIONAL PARTIES
+                       VIS-A-VIS OTHERS
+      PARTY                                    CANDIDATES                                 %                       VALID
+                                  CONTESTED            WON            FD          WON              FD             VOTES
+
+
+
+
+ 1   INC                                      2            2                 0    100.00%            0.00%            271776
+
+NATIONAL PARTIES :                            2            2             0        100.00%           0.00%              271776
+
+STATE PARTIES :                               2                          1                        50.00%               271776
+
+REGISTERED                                                                                                             271776
+(Unrecognised) PARTIES :
+
+INDEPENDENTS :                                                                                                         271776
+
+
+TOTAL :                                       4            2             1         50.00%          25.00%                 379422
+
+
+
+
+(rptPerformanceofWomenInNationalPartiesVisaVisOthers - Page 1 of 1)                                          18
+                          Election Commission of India - General Elections, 1992 (10th LOK SABHA)
+
+
+                                         WOMEN CANDIDATES
+GENERAL ELECTIONS - INDIA, 1992                                                                       WOMEN CANDIDATES
+
+ CONSTITUENCY
+       SL.NO CANDIDATE                              Party Party               Vote           Status Margin Winner's         Total
+                                                          Type                                              Votes           Valid
+                                                                         Polled        %                                    Votes
+   STATE/UT:         PUNJAB
+
+     1 GURDASPUR
+          1      SUKHBUNS KAUR (W)                    INC      N         172391      51.02     W         0         172391   337897
+
+     5 PHILLAUR
+          1      SANTOSH CHAUDHARY (W)                INC      N          99385      40.20     W         0         99385    247246
+
+     6 HOSHIARPUR
+          2      MAYA WATI (W)                        BSP      S          90461      26.54     N      25004        115465   340892
+
+    11 BHATINDA
+          3      SHEELA RANI ALIAS SHEELA             BSP      S          17185      13.06     F      40292        57477    131544
+                 DEVI (W)
+
+N.B. : Candidate Status : W - Winner, F - Forfeited Deposit, N - Not Won and not Forfeited Deposit.
+
+
+
+
+(rptWomenCandidates - Page 1 of 1)                                                                            19
+                               Election Commission of India, General Elections, 1992 (10th LOK SABHA)
+
+
+                                        DETAILED RESULTS
+
+             No.       CANDIDATE                                               SEX     PARTY            VOTES        %
+
+                                                        PUNJAB
+Constituency :       1 . GURDASPUR
+             7 . SUKHBUNS KAUR (W)                                                F    INC              172391      51.02%
+             6 . OM PRAKASH BHARDWAJ                                              M    BJP              104394      30.90%
+             5 . DHARAM CHAND                                                     M    BSP               33146      9.81%
+             4 . VARINDER BHARTI                                                  M    JP                27966      8.28%
+
+ELECTORS :         964014      VOTERS :       350884        POLL PERCENTAGE :         36.40%     VALID VOTES :      337897
+
+Constituency :       2 . AMRITSAR
+             8 . RAGHUNANDAN LAL BHATIA                                           M    INC              142896      60.46%
+             7 . BALDEV RAJ CHAWLA                                                M    BJP               85543      36.19%
+             6 . PRAKASH SINGH GILL                                               M    IND                5154      2.18%
+             5 . SURINDER SINGH                                                   M    IND                2749      1.16%
+
+ELECTORS :         1017957     VOTERS :       247378        POLL PERCENTAGE :         24.30%     VALID VOTES :      236342
+
+Constituency :       3 . TARN TARAN
+             6 . SURINDER SINGH KAIRON                                            M    INC               65139      77.19%
+             5 . HARBHAJAN SINGH OSAHAN                                           M    BSP               14493      17.17%
+             4 . ISHER SINGH                                                      M    IND                2908      3.45%
+             3 . HARINDER SINGH ATTARI                                            M    IND                1853      2.20%
+
+ELECTORS :         947012      VOTERS :        89948        POLL PERCENTAGE :         9.50%      VALID VOTES :       84393
+
+Constituency :       4 . JULLUNDUR
+             1 . YASH                                                             M    INC              160168      55.49%
+             2 . JUGAL MAHAJAN                                                    M    BJP               46355      16.06%
+             3 . VIPIN KUMAR                                                      M    BSP               43380      15.03%
+             4 . SHIV KANWAR SINGH SANDHU                                         M    IND               17880      6.19%
+             5 . DALBIR SINGH                                                     M    IND               11217      3.89%
+             6 . ARVIND KUMAR TULI                                                M    IND                4252      1.47%
+             7 . AMAR NATH                                                        M    IND                3033      1.05%
+             8 . DHARUB SINGH                                                     M    LKD                    893   0.31%
+             9 . BALWANT SINGH                                                    M    IND                    789   0.27%
+             10 . CHARANJIT SINGH                                                 M    IND                    688   0.24%
+
+ELECTORS :         963829      VOTERS :       298228        POLL PERCENTAGE :         30.94%     VALID VOTES :      288655
+
+Constituency :       5 . PHILLAUR (SC)
+             9 . SANTOSH CHAUDHARY (W)                                            F    INC               99385      40.20%
+             8 . HARBHAJAN LAKHA                                                  M    BSP               93601      37.86%
+             7 . MASTER BHAGAT RAM                                                M    CPM               44457      17.98%
+             6 . HANS RAJ                                                         M    IND                8702      3.52%
+             5 . MANJIT SINGH RATTU                                               M    IND                1101      0.45%
+
+ELECTORS :         1023457     VOTERS :       257833        POLL PERCENTAGE :         25.19%     VALID VOTES :      247246
+
+Constituency :       6 . HOSHIARPUR
+             1 . KAMAL CHAUDHARY                                                  M    INC              115465      33.87%
+             2 . MAYA WATI (W)                                                    F    BSP               90461      26.54%
+             3 . VIKRAM SINGH                                                     M    BJP               60776      17.83%
+             4 . HARKANWAL SINGH                                                  M    CPM               36835      10.81%
+
+
+rptDetailedResults - 1 of 3                                                                              20
+GENERAL ELECTIONS - INDIA, 1992                                                        DETAILED RESULTS
+             No.       CANDIDATE                                    SEX       PARTY         VOTES         %
+
+                                                   PUNJAB
+             5 . RAM KISHAN                                              M    IND             18532      5.44%
+             6 . LAL CHAND BHATTI                                        M    IND               6250     1.83%
+             7 . P.N. LEKHI                                              M    JD               5947      1.74%
+             8 . JAWAHAR LAL                                             M    IND              3758      1.10%
+             9 . DHARUV SINGH                                            M    LKD               1946     0.57%
+             10 . HARISH                                                 M    IND                  922   0.27%
+
+ELECTORS :         959076     VOTERS :    355284     POLL PERCENTAGE :       37.04%    VALID VOTES :     340892
+
+Constituency :       7 . ROPAR (SC)
+             2 . HARCHAND SINGH                                          M    INC              90220     63.11%
+             1 . JASPAL SINGH                                            M    BSP             26650      18.64%
+             3 . SONA RAM                                                M    SAD(M)          26091      18.25%
+
+ELECTORS :         1057142    VOTERS :    151831     POLL PERCENTAGE :       14.36%    VALID VOTES :     142961
+
+Constituency :       8 . PATIALA
+             12 . SANT RAM SINGLA                                        M    INC             135864     58.77%
+             11 . MANJIT SINGH KHAIRA                                    M    SAD(M)          32088      13.88%
+             10 . DIWAN CHAND SINGLA                                     M    BJP             28877      12.49%
+             9 . HARDIAL SINGH                                           M    BSP              25001     10.81%
+             8 . SOHAN LAL DUKHI                                         M    IND              3733      1.61%
+             7 . AMRINDER SINGH                                          M    IND               2570     1.11%
+             6 . KARAMJIT SINGH                                          M    IND               1712     0.74%
+             5 . TARSEM SINGH KHATKAR                                    M    BKUS              1349     0.58%
+
+ELECTORS :         1030107    VOTERS :    244389     POLL PERCENTAGE :       23.72%    VALID VOTES :     231194
+
+Constituency :       9 . LUDHIANA
+             15 . GURCHARAN SINGH GALIB                                  M    INC             108811     56.16%
+             14 . KRISHAN KANT JAIN                                      M    BJP              55363     28.57%
+             13 . PRITPAL SINGH                                          M    BSP             18733      9.67%
+             12 . SUBHASH CHANDER                                        M    JD                5969      3.08%
+             11 . SATINDER SINGH                                         M    IND              2344      1.21%
+             10 . KAMAL KUMAR                                            M    IND               1032     0.53%
+             9 . TIRLOCHAN SINGH BHINDER                                 M    IND                  645   0.33%
+             8 . KAKA JOGINDER SINGH ALIAS DHARTI PAKAR                  M    IND                  451   0.23%
+             7 . JOGINDER SINGH AZAD                                     M    IND                  412   0.21%
+
+ELECTORS :         1202152    VOTERS :    201686     POLL PERCENTAGE :       16.78%    VALID VOTES :     193760
+
+Constituency : 10 . SANGRUR
+             6 . GURCHARAN SINGH DADAHOOR                                M    INC              43908     44.33%
+             5 . CHAND SINGH CHOPRA                                      M    CPM              38610     38.98%
+             4 . ATMA SINGH                                              M    BSP             13813      13.94%
+             3 . KARAMJIT SINGH                                          M    IND               1415     1.43%
+             2 . HARDIAL SINGH                                           M    IND               1312     1.32%
+
+ELECTORS :         956817     VOTERS :    104269     POLL PERCENTAGE :       10.90%    VALID VOTES :      99058
+
+Constituency : 11 . BHATINDA (SC)
+             1 . KEWAL SINGH                                             M    INC              57477     43.69%
+             2 . MAKHAN SINGH                                            M    CPI             47226      35.90%
+             3 . SHEELA RANI ALIAS SHEELA DEVI (W)                       F    BSP              17185     13.06%
+             4 . SANT RAM                                                M    BJP              6907      5.25%
+             5 . SURJAN SINGH                                            M    IND              2268      1.72%
+             6 . RESHAM SINGH                                            M    IND                  481   0.37%
+
+rptDetailedResults - 2 of 3                                                                   21
+GENERAL ELECTIONS - INDIA, 1992                                                        DETAILED RESULTS
+             No.       CANDIDATE                                    SEX       PARTY         VOTES       %
+
+                                                    PUNJAB
+ELECTORS :         997277       VOTERS :   138845    POLL PERCENTAGE :       13.92%    VALID VOTES :   131544
+
+Constituency : 12 . FARIDKOT
+             3 . JAGMEET SINGH                                           M    INC             144958   58.60%
+             2 . BALJIT SINGH                                            M    BSP             67262    27.19%
+             1 . SATHI ROOP LAL                                          M    JD               17785   7.19%
+             4 . RAJ KUMAR GIRDHAR                                       M    BJP              17383   7.03%
+
+ELECTORS :         1006515      VOTERS :   258881    POLL PERCENTAGE :       25.72%    VALID VOTES :   247388
+
+Constituency : 13 . FEROZEPUR
+             1 . MOHAN SINGH S/O KANSHA SINGH                            M    BSP             150903   34.69%
+             2 . SANTOSH SINGH                                           M    INC             149607   34.39%
+             3 . SURJIT KUMAR                                            M    BJP             92401    21.24%
+             4 . LAKHMIR SINGH                                           M    SAD(M)          19791    4.55%
+             5 . ANISH KUMAR                                             M    JD                9519   2.19%
+             6 . HARPAL SINGH BHULLAR                                    M    IND               7867   1.81%
+             7 . DAULAT RAM                                              M    IND               1815   0.42%
+             8 . NASIB SINGH                                             M    IND               1740   0.40%
+             9 . MOHAN SINGH S/O IQBAL SINGH                             M    IND               1424   0.33%
+
+ELECTORS :         1044442      VOTERS :   456067    POLL PERCENTAGE :       43.67%    VALID VOTES :   435067
+
+
+
+
+rptDetailedResults - 3 of 3                                                                   22
+
